@@ -1,5 +1,6 @@
-|*Item*|*Content*|
-|:---|---:|
-|왼쪽정렬|오른쪽정렬|
-|왼쪽정렬|오른쪽정렬|
-|왼쪽정렬|오른쪽정렬|
+|*Item*|*Contents*|
+|:---|:---|
+|Problem| |
+|Goal| |
+|Method||
+|Contribution||
